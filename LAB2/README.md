@@ -5,7 +5,12 @@ Write a program that:
 * Main function: get_leap_years(start: int, end: int) -> list[int]
 * Test function: test_get_leap_years()
 
-2. Converts a given temperature in a given scale (K, F or C) to another given scale. For example: 300 K C -> 26.85.
+2.Returns all perfect squares in a given closed interval.
+
+* Main function: get_perfect_squares(start: int, end: int) -> list[int]
+* Test function: test_get_perfect_squares()
+
+3. Converts a given temperature in a given scale (K, F or C) to another given scale. For example: 300 K C -> 26.85.
 
 * Main function: get_temp(temp: float, from: str, to: str) -> float
 * Test function: test_get_temp()
