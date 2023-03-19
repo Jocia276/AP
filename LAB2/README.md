@@ -5,7 +5,7 @@ Write a program that:
 * Main function: get_leap_years(start: int, end: int) -> list[int]
 * Test function: test_get_leap_years()
 
-2.Returns all perfect squares in a given closed interval.
+2. Returns all perfect squares in a given closed interval.
 
 * Main function: get_perfect_squares(start: int, end: int) -> list[int]
 * Test function: test_get_perfect_squares()
