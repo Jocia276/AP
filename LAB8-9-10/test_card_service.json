@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.card.Card", "id_entity": "1", "nume": "Ion", "prenume": "Vasile", "cnp": "6020627271819", "data_nasterii": "22.02.2020", "data_inregistrarii": "22.02.2023"}, "2": {"py/object": "Domain.card.Card", "id_entity": "2", "nume": "Aanei", "prenume": "Bogdan", "cnp": "5020203271829", "data_nasterii": "01.01.2002", "data_inregistrarii": "01.02.2023"}}

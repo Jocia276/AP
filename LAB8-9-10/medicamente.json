@@ -1,0 +1,1 @@
+{"4": {"py/object": "Domain.medicament.Medicament", "id_entity": "4", "nume": "dfsasd", "producator": "sssss", "pret": 1000.0, "necesita_reteta": "nu"}, "1": {"py/object": "Domain.medicament.Medicament", "id_entity": "1", "nume": "PARACETAMOL", "producator": "ZENTIVA", "pret": 22.5, "necesita_reteta": "da"}}
